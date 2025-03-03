@@ -5,9 +5,9 @@ This project is a multi-page website for Innovation Tech, integrating various fe
 
 📂 File Structure
 
-📁 bootstrap_project
-│── 📄 ques1.html (Home Page)
-│── 📄 ques2.html (About Page)
+📁 bootstrap_project/n
+│── 📄 ques1.html (Home Page)/n
+│── 📄 ques2.html (About Page)/n
 │── 📄 ques3.html (Contact Page)
 │── 📄 ques4.html (Services Page)
 │── 📄 ques5.html (Additional Services Page)
