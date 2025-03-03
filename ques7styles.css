@@ -1,0 +1,15 @@
+/* Footer */
+footer {
+    background: #343a40;
+    color: white;
+    padding: 20px 0;
+}
+
+footer a {
+    font-size: 24px;
+    transition: color 0.3s;
+}
+
+footer a:hover {
+    color: #007bff;
+}

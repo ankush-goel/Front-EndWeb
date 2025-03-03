@@ -1,0 +1,16 @@
+/* Center the button */
+.container {
+    padding-top: 50px;
+}
+
+/* Modal Styling */
+.modal-content {
+    border-radius: 10px;
+}
+
+/* Footer */
+footer {
+    background: #343a40;
+    color: white;
+    padding: 15px 0;
+}
