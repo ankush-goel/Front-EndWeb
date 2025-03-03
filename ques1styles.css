@@ -1,0 +1,39 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  /* Hero Section */
+  .hero {
+    background: url('https://img.freepik.com/free-photo/aerial-view-business-team_53876-124515.jpg?semt=ais_hybrid') no-repeat center center/cover;
+    height: 80vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: white;
+  }
+  
+  .hero-content {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  /* Navbar */
+  .navbar-brand img {
+    border-radius: 5px;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #007bff;
+  }
+  
+  /* Footer */
+  footer {
+    background: #343a40;
+    color: white;
+    padding: 15px 0;
+  }
+  

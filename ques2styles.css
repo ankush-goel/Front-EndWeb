@@ -1,0 +1,36 @@
+/* Global Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+  }
+  
+  /* Navbar */
+  .navbar-brand img {
+    border-radius: 5px;
+  }
+  
+  .navbar-nav .nav-link:hover {
+    color: #007bff;
+  }
+  
+  /* About Section */
+  .container {
+    margin-top: 30px;
+  }
+  
+  h2, h3 {
+    color: #007bff;
+  }
+  
+  img {
+    border-radius: 10px;
+    width: 100%;
+  }
+  
+  /* Footer */
+  footer {
+    background: #343a40;
+    color: white;
+    padding: 15px 0;
+  }
+  
